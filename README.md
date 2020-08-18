@@ -14,7 +14,7 @@ Full-stack web development, embedded, game development, and machine learning
 | Other | `Java`, `Git` |
 
 # Learning
-* `React.JS`
+* `ReactJS`
 * `Sass/SCSS`
 * `Go Fiber`
 * `TensorFlow`
