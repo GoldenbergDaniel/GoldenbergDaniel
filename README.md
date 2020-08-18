@@ -1,7 +1,3 @@
-# Daniel Goldenberg
-
-Full-stack web development, embedded, game development, and machine learning
-
 # Skills
 
 | Area          | Technology   |
