@@ -1,16 +1,21 @@
-### Hi there 👋
+# Daniel Goldenberg
 
-<!--
-**DanielGoldenberg0/DanielGoldenberg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web development, embedded, game development, and machine learning
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Area          | Technology   |
+| :-----------: | :----------: |
+| Client-side | `HTML`, `CSS`, `JS` |
+| Server-side | `Golang`, `Python/Flask` |
+| Embedded | `C`, `Arduino` |
+| Game Dev | `C#`, `Raylib3` `Unity` |
+| Machine Learning | `Basic Theory` |
+| Other | `Java`, `Git` |
+
+# Learning
+* `React.JS`
+* `Sass/SCSS`
+* `Go Fiber`
+* `TensorFlow`
+* `Swift`
