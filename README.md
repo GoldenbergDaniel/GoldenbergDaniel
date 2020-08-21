@@ -1,4 +1,4 @@
-# Skills
+# What I Know
 
 | Area          | Technology   |
 | :-----------: | :----------: |
@@ -9,9 +9,11 @@
 | Machine Learning | `Basic Theory` |
 | Other | `Java`, `Git` |
 
-# Learning
+# What I'm Learning
 * `ReactJS`
 * `Sass/SCSS`
-* `Go Fiber`
 * `TensorFlow`
+
+# What I want to Learn
+* `Go Fiber`
 * `Swift`
