@@ -12,8 +12,9 @@
 # What I'm Learning
 * `ReactJS`
 * `Sass/SCSS`
-* `TensorFlow`
+* `Neural Networks from Scratch` 
 
 # What I want to Learn
 * `Go Fiber`
 * `Swift`
+* `TensorFlow`
