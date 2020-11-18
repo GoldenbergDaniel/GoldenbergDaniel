@@ -2,7 +2,7 @@
 
 | Area          | Technology   |
 | :-----------: | :----------: |
-| Client-side | `HTML`, `CSS`, `JS` |
+| Client-side | `HTML`, `Sass/SCSS`, `JS` |
 | Server-side | `Golang`, `Python/Flask` |
 | Embedded | `C`, `Arduino` |
 | Game Dev | `C#`, `Raylib3` `Unity` |
@@ -11,10 +11,7 @@
 
 # What I'm Learning
 * `ReactJS`
-* `Sass/SCSS`
-* `Neural Networks from Scratch` 
+* `Neural Networks`
 
 # What I want to Learn
-* `Go Fiber`
-* `Swift`
 * `TensorFlow`
