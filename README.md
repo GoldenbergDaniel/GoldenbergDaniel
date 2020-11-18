@@ -2,10 +2,10 @@
 
 | Area          | Technology   |
 | :-----------: | :----------: |
-| Client-side | `HTML`, `Sass/SCSS`, `JS` |
+| Client-side | `HTML`, `SCSS`, `JS` |
 | Server-side | `Golang`, `Python/Flask` |
 | Embedded | `C`, `Arduino` |
-| Game Dev | `C#`, `raylib` `Unity` |
+| Game Dev | `C#`, `raylib`, `Unity` |
 | Machine Learning | `Basic Theory` |
 | Other | `Java`, `Git` |
 
