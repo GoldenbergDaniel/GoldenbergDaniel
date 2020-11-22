@@ -2,8 +2,8 @@
 
 | Area          | Technology   |
 | :-----------: | :----------: |
-| Client-side | `HTML`, `SCSS`, `JS` |
-| Server-side | `Golang`, `Python/Flask` |
+| Frontend | `HTML`, `SCSS`, `JS` |
+| Backend | `Golang`, `Python/Flask` |
 | Embedded | `C`, `Arduino` |
 | Game Dev | `C#`, `raylib`, `Unity` |
 | Machine Learning | `Basic Theory` |
