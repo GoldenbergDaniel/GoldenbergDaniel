@@ -11,5 +11,5 @@
 
 # What I'm Learning
 * `ReactJS`
-* `Neural Networks`
+* `Web Sockets`
 * `TensorFlow`
