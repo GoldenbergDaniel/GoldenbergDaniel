@@ -1,4 +1,4 @@
-# What I Know
+# Skills
 
 | Area          | Technology   |
 | :-----------: | :----------: |
@@ -12,6 +12,4 @@
 # What I'm Learning
 * `ReactJS`
 * `Neural Networks`
-
-# What I want to Learn
 * `TensorFlow`
