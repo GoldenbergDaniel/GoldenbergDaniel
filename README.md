@@ -11,6 +11,5 @@
 
 # What I'm Learning
 * `ReactJS`
-* `GoFiber`
 * `Web Sockets`
 * `TensorFlow`
