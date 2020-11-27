@@ -1,4 +1,4 @@
-# Projects
+# Daniel Goldenberg
 
 | Project                | Description  | Technologies |
 | :-----------:          | :----------: | :----------: |
