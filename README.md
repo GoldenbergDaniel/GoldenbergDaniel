@@ -6,3 +6,5 @@
 | Article Aid (WIP)      | None | `Go`, `ReactJS`, `SCSS`, `Python`, `Flask` |
 | Shape Classifier (WIP) | A neural network that distinguises between circles and squares on an 8x8 grid, made completely from scratch using Python and the Numpy linear algebra library | `Python`, `NumPy`, `ML` |
 | Shape Runner (WIP)     | A 2D game that really has no purpose. Made with the raylib library | `C#`, `raylib` |
+
+My main interest include web development and machine learning and, but I am also passionate about game/simulation development, embedded, math, and economics
