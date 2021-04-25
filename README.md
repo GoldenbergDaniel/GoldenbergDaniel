@@ -44,7 +44,7 @@ I mainly work on web development and machine learning, but I am also interested 
 <summary>Other Facts</summary>
 
 - Age: 17
-- Birth Year: 1776
+- Date of Birth: July 4th, 1776
 - State: Florida, USA
 - Favorite...
    - President: George Washington
