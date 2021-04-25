@@ -11,9 +11,7 @@ I mainly work on web development and machine learning, but I am also interested 
 - JavaScript
 - Java
 - C#
-
 <br>
-
 - English
 - Russian
 - Ukrainian (Partially)
