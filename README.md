@@ -1,6 +1,6 @@
 # Daniel Goldenberg
 
-I mainly work on web and embedded development, but I am also interested in game/simulation and machine learning
+I mainly work on web and embedded development, but I am also interested in game/simulation development and machine learning
 
 <details>
 <summary>Languages</summary>
