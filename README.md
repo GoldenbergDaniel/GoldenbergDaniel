@@ -11,6 +11,7 @@ I mainly work on web and embedded development, but I am also interested in game/
 - JavaScript
 - Java
 - C#
+- HTML/SCSS
 
 <br>
 
@@ -33,11 +34,11 @@ I mainly work on web and embedded development, but I am also interested in game/
 
 <details>
 <summary>Interests</summary>
-
+   
+- Physics & Engineering
+- Business & Economics
+- BJJ & Judo
 - Politics
-- Physics/Engineering
-- Business/Economics
-- MMA/BJJ
 </details>
 
 <details>
