@@ -50,10 +50,14 @@ I mainly work on web and embedded development, but I am also interested in game/
 - Favorite...
    - President: George Washington
    - Founding Father: James Madison
-   - Country: United States
    - Youtubers: Dani, Randy, Donut Operator
 - Currently Reading...
    - *Basic Economics* by Thomas Sowell
    - *A Conflict of Visions* by Thomas Sowell
    - *Superintelligence* by Nick Bostrom
 </details>
+
+### My YoutTube Channels (Content soon)
+[DanieG](https://www.youtube.com/channel/UC9iFZSofauRIi3dXCvFV6ZA)
+<br>
+[ReLU Learn](https://www.youtube.com/channel/UCJoCnBg7iSWGGhhQMFfbfCA)
