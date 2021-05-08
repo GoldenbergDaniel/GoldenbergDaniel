@@ -58,6 +58,8 @@ I mainly work on web and embedded development, but I am also interested in game/
 </details>
 
 ### My YoutTube Channels (Content soon)
-[DanieG](https://www.youtube.com/channel/UC9iFZSofauRIi3dXCvFV6ZA)
+[DanieG](https://www.youtube.com/channel/UC9iFZSofauRIi3dXCvFV6ZA?sub_confirmation=1)
 <br>
-[ReLU Learn](https://www.youtube.com/channel/UCJoCnBg7iSWGGhhQMFfbfCA)
+[ReLU Learn](https://www.youtube.com/channel/UCJoCnBg7iSWGGhhQMFfbfCA?sub_confirmation=1)
+<br>
+[Theta Maths](https://www.youtube.com/channel/UCxKf1PG-64GUt2Cr2SkcRGQ?sub_confirmation=1)
