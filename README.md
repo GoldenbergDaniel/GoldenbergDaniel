@@ -57,7 +57,5 @@ I mainly work on low-level programming but I am also interested in machine learn
    - *Superintelligence* by Nick Bostrom
 </details>
 
-### My YouTube Channels (Content soon)
-[DanieG](https://www.youtube.com/channel/UCah4qBil59HnU_k6YiTAAjA?sub_confirmation=1)
-<br>
-[ReLU Learn](https://www.youtube.com/channel/UCJoCnBg7iSWGGhhQMFfbfCA?sub_confirmation=1)
+### Subscribe to my YouTube channel for game/simulation development and tutorials! (Content soon)
+[D4NI3L](https://www.youtube.com/channel/UCah4qBil59HnU_k6YiTAAjA?sub_confirmation=1)
