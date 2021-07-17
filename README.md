@@ -1,6 +1,6 @@
 # Daniel Goldenberg
 
-I mainly work on low-level programming but I am also interested in machine learning and web development.
+Low-level programmer interested in embedded and game development with C/C++
 
 <details>
 <summary>Languages</summary>
@@ -28,8 +28,8 @@ I mainly work on low-level programming but I am also interested in machine learn
 - Raylib
 - SFML
 - Flask
-- Mux
 - Unity
+- Godot
 </details>
 
 <details>
@@ -37,8 +37,8 @@ I mainly work on low-level programming but I am also interested in machine learn
    
 - Physics & Engineering
 - Business & Economics
+- Culture & Politics
 - BJJ & Judo
-- Politics
 </details>
 
 <details>
@@ -47,10 +47,6 @@ I mainly work on low-level programming but I am also interested in machine learn
 - Age: 17
 - Date of Birth: July 4th, 1776
 - State: Florida, USA
-- Favorite...
-   - President: George Washington
-   - Founding Father: James Madison
-   - Youtubers: Dani, Randy, Donut Operator
 - Currently Reading...
    - *Basic Economics* by Thomas Sowell
    - *A Conflict of Visions* by Thomas Sowell
