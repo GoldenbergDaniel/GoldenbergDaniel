@@ -53,7 +53,7 @@ Low-level programmer interested in embedded and game development with C/C++
    - *Superintelligence* by Nick Bostrom
 </details>
 
-### Subscribe to my YouTube channel! (Content soon)
+### Subscribe to my YouTube channel!
 [D4NI3L](https://www.youtube.com/channel/UCah4qBil59HnU_k6YiTAAjA?sub_confirmation=1)
 
-I'll be posting my game/simulation devlogs and tutorials soon
+I'll be posting my game/simulation devlogs and tutorials
