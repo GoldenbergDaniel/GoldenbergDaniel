@@ -54,6 +54,6 @@ Low-level programmer focuses on embedded and game development with C. Also learn
 </details>
 
 ### Subscribe to my YouTube channel!
-[D4NI3L](https://www.youtube.com/channel/UCah4qBil59HnU_k6YiTAAjA?sub_confirmation=1)
+[D4NI3L - Game Dev](https://www.youtube.com/channel/UCah4qBil59HnU_k6YiTAAjA?sub_confirmation=1)
 
 I'll be posting my game/simulation devlogs and tutorials
