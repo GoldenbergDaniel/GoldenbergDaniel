@@ -5,13 +5,13 @@ Low-level programmer focuses on embedded and game development with C. Also learn
 <details>
 <summary>Languages</summary>
 
-- C/C++
+- C/C++ (Primary language)
+- Rust
 - Go
 - Python
 - JavaScript
 - Java
 - C#
-- HTML/SCSS
 
 <br>
 
@@ -24,12 +24,12 @@ Low-level programmer focuses on embedded and game development with C. Also learn
 <details>
 <summary>Technologies</summary>
 
-- React.js/Next.js
 - Raylib
 - SFML
 - Flask
 - Unity
 - Godot
+- React.js/Next.js
 </details>
 
 ### Subscribe to my YouTube channel!
