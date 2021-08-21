@@ -1,6 +1,6 @@
 # Daniel Goldenberg
 
-Low-level programmer focuses on embedded and game development with C. Also learning Rust
+Low-level programmer focused on embedded and game development with C
 
 <details>
 <summary>Languages</summary>
