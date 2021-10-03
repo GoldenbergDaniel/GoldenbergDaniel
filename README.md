@@ -1,6 +1,6 @@
 # Daniel Goldenberg
 
-Low-level programmer focused on embedded and game development with C
+Hobbyist programmer focused on embedded and game development with C
 
 <details>
 <summary>Languages</summary>
