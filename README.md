@@ -5,8 +5,7 @@ Hobbyist programmer focused on embedded and game development
 <details>
 <summary>Languages</summary>
 
-- C/C++ (Primary language)
-- Rust
+- C (Primary language)
 - Go
 - Python
 - JavaScript
@@ -24,11 +23,10 @@ Hobbyist programmer focused on embedded and game development
 <details>
 <summary>Technologies</summary>
 
-- Raylib
-- SFML
-- Flask
-- Unity
 - Godot
+- Unity
+- Flask
+- Svelte.js
 - React.js/Next.js
 </details>
 
