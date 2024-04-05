@@ -33,4 +33,4 @@ Hobbyist programmer focused on embedded and game development
 ### Subscribe to my YouTube channel!
 [D4NI3L - Game Dev](https://www.youtube.com/channel/UCah4qBil59HnU_k6YiTAAjA?sub_confirmation=1)
 
-I'll be posting my game/simulation devlogs and tutorials
+I'll be posting my devlompent logs and tutorials (more soon)
